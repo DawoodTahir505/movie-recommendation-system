@@ -3,7 +3,7 @@
 A content-based movie recommender built with Python and Streamlit. Select a movie and get five similar recommendations with posters.
 
 <p align="center">
-  <img src="screenshot.png" alt="Movie Recommendation System Screenshot" width="800">
+  <img src="app-image.png" alt="Movie Recommendation System Screenshot" width="800">
 </p>
 
 ## Features
